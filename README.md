@@ -17,3 +17,28 @@ Add the file(Voxelcubes PBR Roughness Metallic BabylonJS.spexp) to the [export-p
 # How to Use
 Export your textures with this template.
 
+# Website
+https://voxelcubes.com
+For free 3d models, game-ready assets, tutorials, games, source-codes and more.
+
+# Our Games
+https://voxelcubes-games.com/dashboard
+
+# Youtube
+https://www.youtube.com/@voxelcubesstudios
+For tutorials and more.
+
+# Artstation
+https://www.artstation.com/voxelcubes
+
+# Pinterest
+https://www.pinterest.co.uk/voxelcubes
+
+# Sketchfab
+https://sketchfab.com/voxelcubes
+
+# Twitter
+https://twitter.com/VoxelCubes
+
+# Blog
+https://medium.com/@voxelcubes.com
