@@ -3,7 +3,7 @@ Voxelcubes-Tools-Substance is a Free addon for Adobe Substance. Currently, it on
 
 You can use the preset file to export the combined [Roughness+Metallic] PBR texture needed for meshes when exporting with BabylonJS Blender exporter.
 
-## Note: This export-preset will only with Adobe Substance Painter 3D
+## Note: This export-preset will only work with Adobe Substance Painter 3D
 
 ## How to Download
 1. Click on the zip file(voxelcubes_tools_substance.zip)
